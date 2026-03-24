@@ -35,3 +35,4 @@ def test_percentage():
 
 def test_power():
     assert power(8, 3) == 512
+    assert power(3, 4) == 81
